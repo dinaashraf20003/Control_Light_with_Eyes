@@ -36,5 +36,6 @@ https://user-images.githubusercontent.com/73821958/235843007-15ffd5f8-ba1c-41d9-
 python detect_blinks.py --shape-predictor shape_predictor_68_face_landmarks.dat --video video_name.mp4 
 
 # Resources
-https://www.pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/
+https://www.pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/ <br />
+https://drive.google.com/file/d/1dyMY1F38ByZ9yzpwSSwS8piECkHsBpgQ/view?usp=sharing (Trained landmarks file)
 
