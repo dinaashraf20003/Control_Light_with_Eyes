@@ -35,9 +35,14 @@ python detect_blinks.py --shape-predictor shape_predictor_68_face_landmarks.dat
 - For detections using saved video: <br />
 python detect_blinks.py --shape-predictor shape_predictor_68_face_landmarks.dat --video video_name.mp4 
 
+# Presentation
+[controlling lights.pptx](https://github.com/dinaashraf20003/Control_Light_with_Eyes/files/11413545/controlling.lights.pptx)
+
 # Resources
 - PyImage Search: <br />
 https://www.pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/ <br />
+- Real-Time Eye Blink Detection using Facial Landmarks paper: <br />
+https://vision.fe.uni-lj.si/cvww2016/proceedings/papers/05.pdf <br />
 - Trained landmarks file: <br />
 https://drive.google.com/file/d/1dyMY1F38ByZ9yzpwSSwS8piECkHsBpgQ/view?usp=sharing <br />
 
