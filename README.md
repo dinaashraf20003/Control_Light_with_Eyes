@@ -30,7 +30,7 @@ https://user-images.githubusercontent.com/73821958/235843007-15ffd5f8-ba1c-41d9-
 
 # Commands used 
 - For detections using webcam video: <br />
-' python detect_blinks.py --shape-predictor shape_predictor_68_face_landmarks.dat
+python detect_blinks.py --shape-predictor shape_predictor_68_face_landmarks.dat
 
 - For detections using saved video: <br />
 python detect_blinks.py --shape-predictor shape_predictor_68_face_landmarks.dat --video video_name.mp4 
